@@ -10,14 +10,14 @@
 
 - 💬 "What we know is drop and what we don't know is an ocean" 💬 
  
-
+<br>
 
 ### 🚩 My Stuffs 🚩
 
 | 🤞 HTML5 | 🤞 CSS3 | 🤞 Javascript | 🤞 PHP | 🤞 Bootstrap | 🤞 C language | 🤞 Python | 🤞 flutter |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 
-
+<br>
 <p align="center">
 <a  href="" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrVrZjTo26bl9RoWaHmzQ1iiEZ-iFAu80_Lg&usqp=CAU" alt="HTML" style="height: auto !important;width: auto !important;" ></a>
  </p>
@@ -36,4 +36,4 @@
 </p>
 
 <hr>
-<a href="https://www.buymeacoffee.com/amandeep" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="11px" width="50px"></a>
+<a href="https://www.buymeacoffee.com/amandeep" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41px" width="200px"></a>
