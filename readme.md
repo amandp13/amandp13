@@ -1,10 +1,10 @@
 
 ### Description
--Created a Logo for the Application 
--Logo size is 500x500 px
--Used an image of the mosquito to trace its outline using the pen tool.
--Used a circle shape for the lens.
--Used a pen tool for the handle of the magnifying glass.
+* Created a Logo for the Application 
+* Logo size is 500x500 px
+* Used an image of the mosquito to trace its outline using the pen tool.
+* Used a circle shape for the lens.
+* Used a pen tool for the handle of the magnifying glass.
 
 ### Checklist
 
