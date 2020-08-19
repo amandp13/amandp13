@@ -32,6 +32,9 @@
 <a href="https://medium.com/@amanxyx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="30" /></a>
 &emsp;
 <a href="https://github.com/amandp13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" height="30" width="30" /></a>
+ &emsp;
+<a href="https://m.facebook.com/amandp13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="30" /></a>
+&emsp;
 </p>
 <br>
 
