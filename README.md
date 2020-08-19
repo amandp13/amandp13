@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hola 💁‍♂️ I am ❤️ Amandeep ❤️ </h1>
 <h4 align="center">They call me Aman.maniac 🤓 </h4>
-<h3 align="center"> Machine learning Enthusiast 💻 || Data Analyst 📝 || Web Developer 🖥️ || Pythonerd 🐍 || writer ✍️ || Movie 🎦 </h3>
+<h3 align="center"> ML & DS Enthusiast 💻 || Data Analyst 📝 || Web Developer 🖥️ || Pythonerd 🐍 || writer ✍️ || Movie 🎦 </h3>
 
 <hr>
 
