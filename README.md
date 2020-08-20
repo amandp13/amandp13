@@ -36,7 +36,7 @@
 </p>
 <br>
 
-![amandp13's github stats](https://github-readme-stats.vercel.app/api?username=amandp13&show_icons=true&theme=radical)
+![amandp13 github stats](https://github-readme-stats.vercel.app/api?username=amandp13&show_icons=true&theme=radical)
 
 <hr>
 <a href="https://www.buymeacoffee.com/amandeep" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41px" width="200px"></a>
