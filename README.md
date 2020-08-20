@@ -17,9 +17,7 @@
 | 🤞 HTML5 | 🤞 CSS3 | 🤞 Javascript | 🤞 PHP | 🤞 Bootstrap | 🤞 C language | 🤞 Python | 🤞 flutter |🤞 Open source |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 
-<p align="center">
-<a  href="" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrVrZjTo26bl9RoWaHmzQ1iiEZ-iFAu80_Lg&usqp=CAU" alt="HTML" style="height: auto !important;width: auto !important;" ></a>
- </p>
+
 
 
 ### 🌟 I am everywhere 🌟
