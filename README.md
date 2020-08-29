@@ -2,9 +2,9 @@
 <a  href="" target="_blank"><img src="https://i.ibb.co/Lrgk4wh/Ability-is-limitless-1.png" alt="HTML" style="height: auto !important;width: auto !important;" ></a>
 </p>
 
-<h1 align="center"> Hola 💁‍♂️ I am ❤️ Amandeep ❤️ </h1>
-<h4 align="center">They call me Aman.maniac 🤓 </h4>
-<h3 align="center"> ML & DS Enthusiast 💻 || Data Analyst 📝 || Web Dev 🖥️ || Pythonerd 🐍 || writer ✍️ || Movieholic 🎦 </h3>
+<h1 align="center"> Hola 🙏 I am ❤️ Amandeep ❤️ </h1>
+<h4 align="center">They call me Aman.maniac...IDY 🤓 </h4>
+<h3 align="center"> ML & DS Enthusiast 💻 || Data Analyst 📝 || Web Dev 🖥️ || Pythonerd 🐍 || Tech Blogger ✍️ </h3>
 
 <hr>
 
@@ -14,11 +14,10 @@
 
 ### 🚩 My Stuffs 🚩
 
-| 🤞 HTML5 | 🤞 CSS3 | 🤞 Javascript | 🤞 PHP | 🤞 Bootstrap | 🤞 C language | 🤞 Python | 🤞 flutter |🤞 Open source |
-| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
+| 🤞 HTML5 | 🤞 CSS3 | 🤞 Javascript | 🤞 PHP | 🤞 Bootstrap | 🤞 C language | 🤞 Python | 🤞 Flutter | 🤞 Open source | 🤞 MYSql | 🤞 Poetry |
+| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 
-
-
+<hr>
 
 ### 🌟 I am everywhere 🌟
 
@@ -39,4 +38,5 @@
 ![amandp13 github stats](https://github-readme-stats.vercel.app/api?username=amandp13&show_icons=true&theme=radical)
 
 <hr>
+
 <a href="https://www.buymeacoffee.com/amandeep" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41px" width="200px"></a>
