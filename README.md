@@ -32,6 +32,7 @@
  &emsp;
 <a href="https://m.facebook.com/amandp13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="30" /></a>
 &emsp;
+ <a href="https://stackoverflow.com/users/12756414/amandeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="30" /></a>
 </p>
 <br>
 
