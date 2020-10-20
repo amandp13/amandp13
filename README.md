@@ -40,4 +40,9 @@
 
 <hr>
 
+### Contact Me 📧
+- <p><a href="mailto:someone@example.com">amanxyx@gmail.com</a></p>
+
+<hr>
+
 <a href="https://www.buymeacoffee.com/amandeep" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41px" width="200px"></a>
