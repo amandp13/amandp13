@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Hola 🙏 I am ❤️ Amandeep ❤️ </h1>
-<h4 align="center">They call me Aman.maniac...IDY 🤓 </h4>
+<h4 align="center">A.k.a Aman.maniac... 🤓 </h4>
 <h3 align="center"> ML & DS Enthusiast 💻 || Data Analyst 📝 || Web Dev 🖥️ || Pythonerd 🐍 || Tech Blogger ✍️ </h3>
 
 <hr>
