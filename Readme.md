@@ -12,6 +12,9 @@
  
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amandp13&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<br>
+
 ### 🚩 My Stuffs 🚩
 
 | 🤞 HTML5 | 🤞 CSS3 | 🤞 Javascript | 🤞 PHP | 🤞 Bootstrap | 🤞 C language | 🤞 Python | 🤞 Flutter | 🤞 Open source | 🤞 MYSql | 🤞 Poetry |
@@ -35,9 +38,7 @@
  <a href="https://stackoverflow.com/users/12756414/amandeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="30" /></a>
 </p>
 <br>
-
-![amandp13 github stats](https://github-readme-stats.vercel.app/api?username=amandp13&show_icons=true&theme=radical)
-
+![amandp13 github stats](https://github-readme-stats.vercel.app/api?username=amandp13&show_icons=true&theme=radical) 
 <hr>
 
 ### Contact Me 📧
