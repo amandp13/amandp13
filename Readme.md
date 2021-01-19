@@ -9,8 +9,8 @@
 <hr>
 
 - 💬 "What we know is drop and what we don't is an ocean" - Issac Newton 💬 
- 
-<br>
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amandp13&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br>
