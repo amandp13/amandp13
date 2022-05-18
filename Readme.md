@@ -16,7 +16,7 @@
 
 ### 🚩 My Stuffs 🚩
 
-| 🤞 HTML5 | 🤞 CSS3 | 🤞 Javascript | 🤞 PHP | 🤞 Bootstrap | 🤞 C language | 🤞 Python | 🤞 Flutter | 🤞 Open source | 🤞 MYSql | 🤞 Poetry |
+| 🤞 HTML5 | 🤞 CSS3 | 🤞 Javascript | 🤞 PHP | 🤞 Bootstrap | 🤞 C language | 🤞 Python | 🤞 Open source | 🤞 MYSql | 🤞 Poetry |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 
 <hr>
@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://twitter.com/amanmaniac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" /></a>&emsp;
-<a href="https://www.linkedin.com/in/aman-deep-5b614a190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="30" /></a>&emsp;
+<a href="https://www.linkedin.com/in/iamandeep/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="30" /></a>&emsp;
 <a href="mailto: amanxyx@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"  height="30" width="30" /></a>&emsp;
 <a href="https://instagram.com/aman.maniac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30" /></a>&emsp;
 <a href="https://medium.com/@amanxyx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="30" /></a>
